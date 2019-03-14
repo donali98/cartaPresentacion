@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_padding">8dp</dimen>
+    <dimen name="name_size">35sp</dimen>
+    <dimen name="margin_bottom_size">35dp</dimen>
+    <dimen name="url_text">20sp</dimen>
+    <dimen name="margin_name">40dp</dimen>
+</resources>
